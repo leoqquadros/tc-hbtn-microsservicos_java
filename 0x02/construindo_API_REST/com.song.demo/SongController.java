@@ -12,7 +12,7 @@ public class SongController {
 
     @GetMapping("/welcome")
     public String mensagemBoasVindas() {
-        return "Seja Bem vindo";
+        return "Seja Bem vindo ao SoundMusic";
     }
 
     @GetMapping(path = "/allSongs")
