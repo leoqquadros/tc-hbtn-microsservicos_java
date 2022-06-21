@@ -1,4 +1,4 @@
-package com.song.demo3;
+package com.song.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
