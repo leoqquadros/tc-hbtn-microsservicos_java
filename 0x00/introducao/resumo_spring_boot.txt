@@ -1,0 +1,5 @@
+                                    Spring Boot
+
+O Spring boot frameworks seria um ecossistema de desenvolvimento com o objetivo de facilitar a vida dos programadores, uma vez que ele já vem configurado boa parte do desenvolvimento. Um dos maiores benefícios de usar o Spring Boot é conseguir otimizar seu tempo e aumentar sua produtividade, já que o Spring otimiza e simplifica o desenvolvimento dev ou seja, você não necessita ter que gastar seu tempo em configurar e desenvolver uma aplicação do zero, você já recebe a maioria dos recursos necessários. 
+A adição das novas dependências é feita a partir do pom.xml, lá você administra suas dependências e configurações. Na minha concepção, as melhores IDEs para trabalhar com Spring são: IntelliJ e Eclipse.
+O Spring Initializer é uma forma de criar um projeto de forma rápida contendo todas as dependências iniciais para criação de um projeto.
