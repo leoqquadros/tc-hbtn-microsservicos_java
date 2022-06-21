@@ -1,7 +1,5 @@
 package com.song.demo;
 
-import java.util.Objects;
-
 public class Song {
     private Integer id;
     private String nome;
