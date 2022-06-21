@@ -1,4 +1,4 @@
-package com.song.demo;
+package com.song.demo3;
 
 public class Song {
     private Integer id;

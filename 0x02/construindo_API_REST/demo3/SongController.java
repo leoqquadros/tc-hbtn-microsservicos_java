@@ -1,4 +1,4 @@
-package com.song.demo;
+package com.song.demo3;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
