@@ -1,4 +1,4 @@
-package criando_spring_boot_JPA.com.techCamps.demo;
+package com.techCamps.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
