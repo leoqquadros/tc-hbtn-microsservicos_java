@@ -1,7 +1,6 @@
-package com.example.jpa2demo;
+package com.example.jpah2demo;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
