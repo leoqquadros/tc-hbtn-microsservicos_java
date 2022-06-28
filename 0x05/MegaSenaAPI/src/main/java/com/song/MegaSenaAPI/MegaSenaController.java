@@ -8,9 +8,6 @@ import javax.swing.*;
 import java.util.*;
 import java.util.stream.Collectors;
 
-
-
-
 @RestController
 @RequestMapping(value="/megasena")
 public class MegaSenaController {
@@ -21,7 +18,6 @@ public class MegaSenaController {
         return "Geração de números da Mega-Sena";
 
     }
-
 
     @GetMapping("/getNumbers")
     public List<Integer> numerosMegaSena() {
