@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0x01/spring_boot_2/Demo2.iml" filepath="$PROJECT_DIR$/0x01/spring_boot_2/Demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x01/spring_boot_1/demo.iml" filepath="$PROJECT_DIR$/0x01/spring_boot_1/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x02/construindo_API_REST/demo (1).iml" filepath="$PROJECT_DIR$/0x02/construindo_API_REST/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x07/api-rest-calculator/demo (1) (com.example.calculator).iml" filepath="$PROJECT_DIR$/0x07/api-rest-calculator/demo (1) (com.example.calculator).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x08/ProductAPI/demo (1) (com.example.product).iml" filepath="$PROJECT_DIR$/0x08/ProductAPI/demo (1) (com.example.product).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x03/criando_spring_boot_JPA/demo (1) (com.techCamps).iml" filepath="$PROJECT_DIR$/0x03/criando_spring_boot_JPA/demo (1) (com.techCamps).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x05/MegaSenaAPI/demo (2).iml" filepath="$PROJECT_DIR$/0x05/MegaSenaAPI/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x04/JPA+H2_database/jpa-h2-demo.iml" filepath="$PROJECT_DIR$/0x04/JPA+H2_database/jpa-h2-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tc-hbtn-microsservicos_java.iml" filepath="$PROJECT_DIR$/tc-hbtn-microsservicos_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x06/api-rest-userController/user.iml" filepath="$PROJECT_DIR$/0x06/api-rest-userController/user.iml" />
+    </modules>
+  </component>
+</project>
